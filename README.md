@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Clean Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Bui%20Xuan%20Viet&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=BUI%20XUAN%20VIET&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20FULLSTACK%20DEVELOPER%20🚀&descAlignY=55&descSize=18" width="100%"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=👨‍💻+Fullstack+Developer;🚀+Backend+Specialist;📱+Mobile+Enthusiast" alt="Typing SVG" />
 
 <h3>👨‍💻 Fullstack Developer | 🚀 Backend Specialist | 📱 Mobile Enthusiast</h3>
 
